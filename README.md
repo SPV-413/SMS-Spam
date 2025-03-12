@@ -17,6 +17,7 @@ This project focuses on predicting SMS Spam using machine learning model trained
 ## Project Workflow
 ### 1. **Data Preprocessing**
 - Checking missing values
+- Removing unwanted columns
 - Removing duplicates
 - Tokenization
 - Lowercasing
