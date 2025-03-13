@@ -60,8 +60,5 @@ Ensure you have the following installed:
 ## Results
 - Using both **Bag of Words (BoW) and TF-IDF** for feature extraction resulted in the same highest accuracy score when combined with the **Bernoulli Naive Bayes** model. This suggests that both methods effectively captured the relevant information in the dataset, highlighting their robustness in certain contexts. However, Word2Vec, which generates dense word vectors, did not improve the accuracy in this specific scenario. Thereby, filtering out unwanted messages and protecting users.
 
-## License
-This project is open-source!
-
 ## Contact
 For any inquiries, reach out via GitHub or email.
